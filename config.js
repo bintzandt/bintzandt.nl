@@ -1,43 +1,51 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://bintzandt.nl',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Bram in \'t Zandt - Student & Developer',
+  subtitle: 'Cyber Security Master Student that loves to develop!',
+  copyright: '',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
-  useKatex: false,
+  postsPerPage: 5,
+  googleAnalyticsId: '',
+  useKatex: true,
   menu: [
     {
-      label: 'Articles',
+      label: 'Posts',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'About',
+      path: '/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+    // {
+    //   label: 'Things I learned',
+    //   path: '/knowlegde',
+    // },
+    // {
+    //   label: 'Books',
+    //   path: '/books',
+    // },
+    // {
+    //   label: 'Contact',
+    //   path: '/pages/contacts'
+    // }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Bram in \'t Zandt',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Cyber Security Master Student that loves to develop!',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'info@bintzandt.nl',
+      facebook: '',
+      telegram: 'bintzandt',
+      twitter: '',
+      github: 'bintzandt',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'bintzandt',
+      instagram: 'bintzandt',
       line: '',
       gitlab: '',
       weibo: ''
