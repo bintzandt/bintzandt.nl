@@ -7,13 +7,14 @@ slug: "/posts/writing-banana-in-js/"
 category: "Development"
 tags:
   - "JavaScript"
-  - "Fun"
 description: "
 JavaScript is a very flexible language.
 Some people love that while others really hate it.
 This post shows how you can abuse JavaScript's flexibility for some weird stuff.
 "
+socialImage: "/media/js.jpg"
 ---
+![header](/media/js.jpg)
 - [Banana power](#banana-power)
 - [From int to string](#from-int-to-string)
 

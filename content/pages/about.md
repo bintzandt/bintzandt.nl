@@ -33,7 +33,7 @@ There are some things that I would like to improve in the near future.
 Have a look at [the repo](https://github.com/bintzandt/CodeIgniter-Hydrofiel/issues/23) for an idea of my plans (and feel free to leave a comment).
 
 I'm also a member of Hydrofiel.
-I used to play water-polo but I quit since this year because I noticed that it was costing my more energy than I got from it.
+I used to play water-polo but I quit since this year because I noticed that it was costing me more energy than I got from it.
 For now, I'm sticking to swimming and running to keep fit.
 
 If you want to contact me, have a look at the side bar.
