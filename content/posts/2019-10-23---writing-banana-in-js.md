@@ -1,5 +1,5 @@
 ---
-title: "A closer look at Javascript: bizarre examples"
+title: "A closer look at JavaScript: bizarre examples"
 date: "2019-10-23T20:25:00.169Z"
 template: "post"
 draft: false
