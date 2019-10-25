@@ -1,10 +1,16 @@
 ---
 title: "About me"
 template: "page"
-slug: "/about"
+slug: "/about/"
 socialImage: ""
 ---
+## TLDR;
+I'm Bram in 't Zandt.
+I'm a Master student in TRU/e Security.
+I have a part-time job at [Yoast](https://yoast.com), a company in Wijchen.
+I like to read, sport and develop in my free time. 
 
+## About me
 I'm a **Master student** in [TRU/e Security](https://true-security.nl/) at the Radboud University in Nijmegen and the Technical University in Eindhoven.
 I obtained my Bachelor Computing Science in the year 2019.
 I followed a track called "Digital Security" where the main focus is on Cyber Security. 

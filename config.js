@@ -12,24 +12,20 @@ module.exports = {
   menu: [
     {
       label: 'Posts',
-      path: '/'
+      path: '/',
+    },
+    {
+      label: 'Books',
+      path: '/books',
     },
     {
       label: 'About',
-      path: '/about'
+      path: '/about',
     },
-    // {
-    //   label: 'Things I learned',
-    //   path: '/knowlegde',
-    // },
-    // {
-    //   label: 'Books',
-    //   path: '/books',
-    // },
-    // {
-    //   label: 'Contact',
-    //   path: '/pages/contacts'
-    // }
+    {
+      label: 'Resume',
+      path: '/resume',
+    },
   ],
   author: {
     name: 'Bram in \'t Zandt',
@@ -47,7 +43,7 @@ module.exports = {
       instagram: 'bintzandt',
       line: '',
       gitlab: '',
-      weibo: ''
-    }
-  }
+      weibo: '',
+    },
+  },
 };
