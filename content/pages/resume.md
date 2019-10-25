@@ -43,6 +43,6 @@ This page contains a small overview of my resume. Contact me to get the full res
   I finished my bachelor Computer Science in January 2019.
   I followed the track Digital Security.
   This means that I followed several courses that focus on Security.
-  Some examples are the courses "Introduction to Cryptograhpy", "Web&nbsp;security" and "Privacy&nbsp;&&nbsp;Identity". 
+  Some examples are the courses "Introduction to Cryptography", "Web&nbsp;security" and "Privacy&nbsp;&&nbsp;Identity". 
    
 - 2008 - 2014: VWO with International Baccalaureate
