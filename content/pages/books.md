@@ -8,13 +8,14 @@ socialImage: ""
 - [To Read](#to-read)
 - [Legend](#legend)
 
-## Currently Reading
-- Nudge - Richard Thaler and Cass Sunstein  
+## Currently Reading  
+- The Organized Mind - Daniel Levitin
 
 ## Read
 - <span style="color: green">Thinking Fast and Slow - Daniel Kahneman</span>  
 - <span style="color: green">Eating Animals - Jonathan Safran Foer</span>
 - Why We Sleep - Matthew Walker
+- Nudge - Richard Thaler and Cass Sunstein
 
 ## To read
 - The Meat Question: Animals, Humans, and the Deep History of Food - Josh Berson
