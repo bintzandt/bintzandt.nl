@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://bintzandt.nl',
   pathPrefix: '/',
-  title: 'Bram in \'t Zandt - Student & Developer',
-  subtitle: 'Cyber Security Master Student that loves to develop!',
+  title: 'Bram in \'t Zandt - Developer',
+  subtitle: 'Web-development Enthusiast!',
   copyright: '',
   disqusShortname: '',
   postsPerPage: 5,
@@ -30,7 +30,7 @@ module.exports = {
   author: {
     name: 'Bram in \'t Zandt',
     photo: '/photo.jpg',
-    bio: 'Cyber Security Master Student that loves to develop!',
+    bio: 'Web-development Enthusiast!',
     contacts: {
       email: 'info@bintzandt.nl',
       facebook: '',
